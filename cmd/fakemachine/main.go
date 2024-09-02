@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/alessio/shellescape"
 	"github.com/docker/go-units"
-	"github.com/go-debos/fakemachine"
+	"github.com/iwamatsu/fakemachine"
 	"github.com/jessevdk/go-flags"
 	"os"
 	"strings"

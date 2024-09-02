@@ -19,7 +19,7 @@ import (
 	"strings"
 	"text/template"
 
-	writerhelper "github.com/go-debos/fakemachine/cpio"
+	writerhelper "github.com/iwamatsu/fakemachine/cpio"
 )
 
 func mergedUsrSystem() bool {

@@ -9,7 +9,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/go-debos/fakemachine/cpio"
+	"github.com/iwamatsu/fakemachine/cpio"
 )
 
 func checkStreamsMatch(t *testing.T, output, check io.Reader) error {
